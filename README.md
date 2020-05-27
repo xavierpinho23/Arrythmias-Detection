@@ -10,4 +10,4 @@ In this project we used ECG analysis in order to detect Arrythmias: PVC (Prematu
 -PVC detection;
 -AF detection.
 
-Matlab; Signal Processing; ECG; 
+Matlab; Signal Processing; ECG; Supervised and Unsupervised Learning; 
